@@ -94,6 +94,8 @@
   <hr>
   <h3>Extra Circular </h3>
   <ul>
+    <li>Successfully organized the best event “Among us” in tech-fest IEEE Whizon 2022</li>
+    <li>Presented a solution for Optimal EV charging station location in Smart India Hackathon 2022</li>
     <li>Successfully completed the Coursera course Python programing by University of Michigan in 2021</li>
     <li>Successfully completed workshop on Chatbot and Virtual assistant organized by IEEE RAIT in 2021</li>
     <li>Successfully completed workshop on Level 2 Robotics organized by IEEE RAIT in 2020</li>
